@@ -1,7 +1,7 @@
 # Meal Attendance System
 
 ## Overview
-The **Meal Attendance System** is a Laravel-based web application designed to streamline meal distribution during the international conference at Semcom College. It ensures efficient meal tracking through QR code-based validation.
+The **Meal Attendance System** is a Laravel-based web application designed to streamline meal distribution during the international conference at Semcom College on 28-03-2025. It ensures efficient meal tracking through QR code-based validation.
 
 ## Features
 - **Admin Panel**: Upload user details via Excel or manual entry (Name, Email, Phone, Category: Student, Guest, Faculty, etc.).
