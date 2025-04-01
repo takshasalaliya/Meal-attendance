@@ -20,7 +20,7 @@ The **Meal Attendance System** is a Laravel-based web application designed to st
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/takshasalaliya/Meal-attendance
    cd meal-attendance-system
    ```
 2. Install dependencies:
